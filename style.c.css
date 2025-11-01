@@ -1,0 +1,28 @@
+.header {
+    color: #e10f0f;
+    background: #d5d5d5;
+    text-align: center;
+    font-family: "Courier New";
+
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+}
+
+p {
+    background: lightslategray;
+}
+
+.splash-links {
+    margin-top: 60px;
+    a {
+        padding: 20px;
+        background: #41557d;
+        margin: 20px;
+        color: white;
+        text-decoration: none;
+        border-radius: 8px;
+        filter: drop-shadow(3px 3px 3px rgba(0, 0, 0 ,0.3));
+    }
+}
